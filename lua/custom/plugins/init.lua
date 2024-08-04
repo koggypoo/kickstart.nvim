@@ -4,6 +4,4 @@
 -- See the kickstart.nvim README for more information
 return {
   'ThePrimeagen/vim-be-good',
-  'voldikss/vim-floaterm',
-  { 'akinsho/toggleterm.nvim', version = '*', config = true },
 }
